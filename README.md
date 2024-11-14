@@ -5,7 +5,7 @@ A Java application that fetches profile images from BlueSky social network using
 ## 🚀 Features
 
 - Fetch profile images from BlueSky accounts
-- Modern Java 23 implementation using HTTP/2
+- Modern Java 21 implementation using HTTP/2
 - Secure credential management using environment variables
 - Efficient HTTP client with connection pooling
 - Robust error handling and logging
