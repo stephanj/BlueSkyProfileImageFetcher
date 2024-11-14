@@ -47,8 +47,8 @@ nano .env
 Create a `.env` file in the project root with the following variables:
 
 ```env
-BLUESKY_USERNAME=your-username.bsky.social
-BLUESKY_APP_PASSWORD=your-app-password
+BLUESKY_USERNAME=stephan007.bsky.social
+BLUESKY_APP_PASSWORD=XXXXXXXXXXXXXXXXXX
 ```
 
 ### Getting Your BlueSky App Password
@@ -120,7 +120,7 @@ public class AdvancedExample {
             System.out.println("Using account: " + config.getUsername());
 
             // Fetch and verify image URL
-            String handle = "user.bsky.social";
+            String handle = "stephan007.bsky.social";
             String imageUrl = com.devoxx.BlueSkyProfileImageFetcher.getProfileImage(handle);
             
             if (imageUrl != null) {
