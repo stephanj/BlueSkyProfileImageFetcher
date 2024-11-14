@@ -12,18 +12,18 @@ A Java application that fetches profile images from BlueSky social network using
 
 ## 📋 Prerequisites
 
-- Java 23 or higher
-- Maven 3.8+ or Gradle 8.0+
+- Java 21 or higher
+- Maven 3.8+
 - A BlueSky account with an App Password
 - Git (for version control)
 
-## 🛠️ Installation
+## 🛠Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bluesky-profile-image-fetcher.git
-cd bluesky-profile-image-fetcher
+git clone https://github.com/stephanj/BlueSkyProfileImageFetcher.git
+cd BlueSkyProfileImageFetcher
 ```
 
 2. Install dependencies:
