@@ -17,7 +17,7 @@ A Java application that fetches profile images from BlueSky social network using
 - A BlueSky account with an App Password
 - Git (for version control)
 
-## 🛠Installation
+## 🛠 Installation
 
 1. Clone the repository:
 
